@@ -66,3 +66,20 @@ a:active, a:hover {
 #press {
 	margin-bottom: 20px;
 }
+
+.col-1 {
+	float:left;
+	width:25%
+}
+.col-2 {
+	float:left;
+	width:25%
+}
+.col-3 {
+	float:left;
+	width:25%
+}
+.col-4 {
+	float:left;
+	width:25%
+}
