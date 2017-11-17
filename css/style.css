@@ -83,3 +83,13 @@ a:active, a:hover {
 	float:left;
 	width:25%
 }
+
+#footer {
+	text-align: right;
+	
+}
+
+.small {
+    font-size: 0.8em;
+		color: #555;
+}
